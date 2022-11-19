@@ -38,5 +38,27 @@
             "img": "https://saksham-guptaa.github.io/hackbpitAPI/images.jpg",
             "location": "Hyde Farm House",
             "distance": "30 minutes Drive"
+        },
+        
+        {
+            "img2": "https://saksham-guptaa.github.io/hackbpitAPI/farm1.jpg",
+            "title": "Full Aceess",
+        },
+        
+        {
+            "img2": "https://saksham-guptaa.github.io/hackbpitAPI/farm2.jpg",
+            "title": "Best Location ",
+        },
+        
+        {
+            "img2": "https://saksham-guptaa.github.io/hackbpitAPI/farm3.jpg",
+            "title": "On HighWay",
+        },
+        
+        {
+            "img2": "https://saksham-guptaa.github.io/hackbpitAPI/farm5.jpg",
+            "title": "Middle Of the City",
         }
+        
+       
 ]
